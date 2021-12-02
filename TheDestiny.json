@@ -1,0 +1,38 @@
+{
+    "manifest": {
+        "name": "SGU - The Destiny",
+        "author": "Detective Bot"
+    },
+    "background": {
+        "overlay_alpha": 0,
+        "url": "https:\/\/media.discordapp.net\/attachments\/773311081221193778\/916016332036800512\/990f15b320d5e565dd97348462a98a893.jpg"
+    },
+    "fonts": {},
+    "simple_colors": {
+        "background": 956301312,
+        "background_secondary": 1560281088,
+        "accent": 1506695461,
+        "statusbar": 1560281088,
+        "mention_highlight": 631775462
+    },
+    "colors": {
+        "primary_dark_200": -872415233,
+        "primary_dark_360": 1560281087,
+        "uikit_btn_bg_color_selector_red": -1812004831,
+        "link": -671124224,
+        "uikit_btn_bg_color_selector_green": -1056920065,
+        "status_green": -1056899141,
+        "primary_dark_100": 1345454172,
+        "primary_700": -1907153305,
+        "primary_630": 2136155751
+    },
+    "drawable_tints": {
+        "drawable_overlay_guild_mentions_dark": 1979711488,
+        "drawable_overlay_channels_selected_dark": 597635281,
+        "ic_status_dnd_16dp": 1962868896,
+        "ic_account_spotify": -5242625,
+        "ic_account_twitter": -8626433,
+        "ic_add_friend_plus": -1045430017
+    },
+    "raws": {}
+}

@@ -1,0 +1,38 @@
+{
+    "background": {
+        "url": "https:\/\/media.discordapp.net\/attachments\/773311081221193778\/916020115441594398\/955800_stargate-atlantis-wallpapers-wallpapers-cave_3840x2160_h.jpg"
+    },
+    "colors": {
+        "brand_new_560": -14851,
+        "link": -14851,
+        "primary_700": 1006632960,
+        "primary_dark_360": -2030043137,
+        "primary_dark_400": -1761607681,
+        "primary_dark_600": 0,
+        "primary_dark_660": 0,
+        "primary_dark_800": -14474461,
+        "uikit_btn_bg_color_selector_red": -858100628,
+        "uikit_settings_item_text_color_light": 922746879
+    },
+    "drawable_tints": {
+        "drawable_button_grey": -13490892,
+        "drawable_button_red": -4238252,
+        "drawable_overlay_channels_selected_dark": 754974719,
+        "ic_guild_folder": -749432385
+    },
+    "fonts": {},
+    "manifest": {
+        "author": "Detective Bot",
+        "name": "Atlantis - Stargate",
+        "version": "1.0"
+    },
+    "raws": {},
+    "simple_colors": {
+        "accent": -8208204,
+        "background": 184549375,
+        "background_secondary": 0,
+        "input_background": 637534207,
+        "mention_highlight": 956286461,
+        "statusbar": 469762047
+    }
+}

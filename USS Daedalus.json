@@ -1,0 +1,38 @@
+{
+    "background": {
+        "overlay_alpha": 0,
+        "url": "https:\/\/media.discordapp.net\/attachments\/773311081221193778\/916017303202721842\/62428.jpg"
+    },
+    "colors": {
+        "link": -671124224,
+        "primary_630": 2136155751,
+        "primary_700": -1907153305,
+        "primary_dark_100": 1345454172,
+        "primary_dark_200": -872415233,
+        "primary_dark_360": 1560281087,
+        "status_green": -1056899141,
+        "uikit_btn_bg_color_selector_green": -1056920065,
+        "uikit_btn_bg_color_selector_red": -1812004831
+    },
+    "drawable_tints": {
+        "drawable_overlay_channels_selected_dark": 597635281,
+        "drawable_overlay_guild_mentions_dark": 1979711488,
+        "ic_account_spotify": -5242625,
+        "ic_account_twitter": -8626433,
+        "ic_add_friend_plus": -1045430017,
+        "ic_status_dnd_16dp": 1962868896
+    },
+    "fonts": {},
+    "manifest": {
+        "author": "Detective Bot",
+        "name": "USS Daedalus - Stargate"
+    },
+    "raws": {},
+    "simple_colors": {
+        "accent": 873908275,
+        "background": 956301312,
+        "background_secondary": 1560281088,
+        "mention_highlight": 631775462,
+        "statusbar": 1560281088
+    }
+}
